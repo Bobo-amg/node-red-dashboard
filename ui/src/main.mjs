@@ -20,6 +20,7 @@ import * as directives from 'vuetify/directives'
 // Labs Imports
 import { VNumberInput } from 'vuetify/labs/VNumberInput'
 import { VTreeview } from 'vuetify/labs/VTreeview'
+import { VCalendar } from 'vuetify/labs/VCalendar'
 
 import './stylesheets/common.css'
 
